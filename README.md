@@ -38,7 +38,7 @@ http://localhost:8080
 
 🧪 API Testing – Postman
 A Postman collection is included to test all Order Service endpoints.
-📂 Path:
+📂 Path:                                                                                                                                                          
 collection/product-order-service_collection.postman_collection.json
 This collection covers:
 Order creation
@@ -46,13 +46,13 @@ Order retrieval
 End-to-end flow with Product Service
 
 🛠️ Tech Stack
-Java
-Spring Boot
-Spring Data JPA
-RESTful APIs
-H2 Database
-Maven
-Postman
+-Java    
+-Spring Boot
+-Spring Data JPA
+-RESTful APIs
+-H2 Database
+-Maven
+-Postman
 
 ▶️ How to Run the Application
 1️⃣ Start Product Service (Required)
