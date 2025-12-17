@@ -1,7 +1,11 @@
 📦 Order Service – Spring Boot Microservice
+
 📌 Overview
+
 The Order Service is a Spring Boot microservice responsible for creating and retrieving orders.
+
 It communicates with the Product Service via REST APIs to fetch product details during order creation.
+
   ⚠️ Note:
     Product Service must be running before starting Order Service.
     
